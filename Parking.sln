@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parking", "Parking.csproj", "{EB3CDD3C-79D8-4091-8B00-411F814C6295}"
+EndProject
+Project("{E53339B2-1760-4266-BCC7-CA923CBCF16C}") = "docker-compose", "docker-compose.dcproj", "{C87D797F-D9C5-45DA-8E85-EA837F870ECD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB3CDD3C-79D8-4091-8B00-411F814C6295}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB3CDD3C-79D8-4091-8B00-411F814C6295}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB3CDD3C-79D8-4091-8B00-411F814C6295}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB3CDD3C-79D8-4091-8B00-411F814C6295}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C87D797F-D9C5-45DA-8E85-EA837F870ECD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C87D797F-D9C5-45DA-8E85-EA837F870ECD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C87D797F-D9C5-45DA-8E85-EA837F870ECD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C87D797F-D9C5-45DA-8E85-EA837F870ECD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {317A56FC-FC71-413C-AA4A-B37D27D59485}
+	EndGlobalSection
+EndGlobal
